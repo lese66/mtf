@@ -2,7 +2,7 @@
 
 **Author:**  *Luis Samaniego*
 
-The source and file structure has been written based on the original code developed by Norman Koren. The author acknowledge the use of ChatGPN to easy the transcription and simplification of the code from MathLab to Python. The author added new functionalities, documentation and improve readability.
+The source and file structure are based on the original code developed by Norman Koren. The author acknowledges the use of ChatGPT to facilitate the transcription and simplification of the code from MATLAB to Python. Additionally, the author has introduced new functionalities, enhanced documentation, and improved readability.
 
 ## Install
 
