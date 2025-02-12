@@ -1,4 +1,4 @@
-## MTF curve estimation with Phyton
+## MTF curve estimation with Python
 
 **Author:**  *Luis Samaniego*
 

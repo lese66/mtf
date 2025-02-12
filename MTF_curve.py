@@ -34,7 +34,7 @@ LITERATURE
 
 HISTORY
     Written   Normal Koren,   Mar   2007  : Created in MatLab
-    Rewritten Luis Samaniego, Feb   2025  : Rewritten into Python by ChatGPT
+    Rewritten Luis Samaniego, Feb   2025  : Rewritten into Python, support by ChatGPT
     Modified  Luis Samaniego, Feb   2025  : Added flens function, dynamic legend, f50 values
 
 Copyright (C) 2001-2004 by Norman Koren
